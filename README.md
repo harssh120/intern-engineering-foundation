@@ -19,3 +19,5 @@ intern-engineering-foundation/
 ## How to Run
 
 python3 src/profile.py
+
+This project demonstrates the basic Git workflow including clone, branch, add, commit, push, pull, merge, and pull request.
